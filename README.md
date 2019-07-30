@@ -1,2 +1,4 @@
-# spacey
-Refactoring example
+# SpaceY
+Добро пожаловать в компанию SpaceY
+
+Детали вашего задания расписаны в вайле index.php
