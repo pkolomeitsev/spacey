@@ -10,7 +10,7 @@ require_once 'vendor/autoload.php';
 
 use App\GravityCalculator;
 
-$gravities = array('earth' => 1, 'mars' => 0.379, 'jupiter' => 2.5);
+$gravities = ['earth' => 1, 'mars' => 0.379, 'jupiter' => 2.5];
 
 $gravityCalc = new GravityCalculator($gravities);
 
